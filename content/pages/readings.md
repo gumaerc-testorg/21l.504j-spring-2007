@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 00905a8d-24d9-24e8-d4d0-be8bf03447fe
 ---
@@ -80,7 +83,7 @@ Melville, Herman. "Benito Cereno." \[1856\] In _The Piazza Tales and other Prose
 {{< tdopen >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Mark Twain
 {{< tdclose >}}
 {{< tdopen >}}
@@ -113,7 +116,7 @@ _The American Play_, read all.
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Charles Chesnutt
 {{< tdclose >}}
 {{< tdopen >}}
@@ -176,7 +179,7 @@ Morrison, Toni. "Recitatif." In _Women and Race in Contemporary U.S. Writing: Fr
 {{< tdopen >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 James Weldon Johnson
 {{< tdclose >}}
 {{< tdopen >}}
@@ -233,7 +236,7 @@ Riley. "Adventures of an Indian princess." In _Native American Literature: An An
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Philip Roth
 {{< tdclose >}}
 {{< tdopen >}}
@@ -254,7 +257,7 @@ _The Human Stain_, chapters 4-5.
 {{< tdopen >}}
 16
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 John Howard Griffin
 {{< tdclose >}}
 {{< tdopen >}}
@@ -337,7 +340,7 @@ Library instruction
 {{< tdopen >}}
 21
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Toi Derricotte
 {{< tdclose >}}
 {{< tdopen >}}
@@ -358,7 +361,7 @@ _The Black Notebooks_, "Among School" to the end.
 {{< tdopen >}}
 23
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 George Schuyler
 {{< tdclose >}}
 {{< tdopen >}}
