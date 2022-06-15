@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the course writing assignments,
+  criteria for grading, and a note on plagiarism.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

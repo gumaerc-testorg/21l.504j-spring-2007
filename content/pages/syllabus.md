@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about meeting times, requirements, skills taught, grading, and the schedule of lecture
+  topics and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -41,11 +44,11 @@ Regular attendance and active participation in class is required. Participation 
 
 ### Assigned Readings
 
-All readings (books) for the class are available at the bookstore. These readings must be completed by the date they appear on the syllabus. Other readings are listed in the [readings]({{< baseurl >}}/pages/readings) section.
+All readings (books) for the class are available at the bookstore. These readings must be completed by the date they appear on the syllabus. Other readings are listed in the {{% resource_link 00905a8d-24d9-24e8-d4d0-be8bf03447fe "readings" %}} section.
 
 ### Assigned Writings
 
-Your assignments for class are recorded on the syllabus and available in the [assignments]({{< baseurl >}}/pages/assignments) section. Unless otherwise directed, assignments must be submitted by 5 pm in my mailbox on the due date. Written assignments include two 5-page papers, a complete revision of any one of the two papers, and a 10-paged research paper due on the last day of class. All papers should follow the MLA format (see [Documenting Sources: MLA Style: English and Other Humanities](http://www.macmillanlearning.com/catalog/static/bsm/hacker/resdoc/humanities/english.htm)). These papers should be typed, double-spaced, paginated, titled (no title page necessary), and in 12-point font (Times New Roman) with 1-inch margins on all sides.
+Your assignments for class are recorded on the syllabus and available in the {{% resource_link 3fcb5884-aa85-301c-8de7-221e2433d5b4 "assignments" %}} section. Unless otherwise directed, assignments must be submitted by 5 pm in my mailbox on the due date. Written assignments include two 5-page papers, a complete revision of any one of the two papers, and a 10-paged research paper due on the last day of class. All papers should follow the MLA format (see [Documenting Sources: MLA Style: English and Other Humanities](http://www.macmillanlearning.com/catalog/static/bsm/hacker/resdoc/humanities/english.htm)). These papers should be typed, double-spaced, paginated, titled (no title page necessary), and in 12-point font (Times New Roman) with 1-inch margins on all sides.
 
 ### Oral Presentations
 
