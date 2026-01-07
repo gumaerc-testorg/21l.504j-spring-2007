@@ -48,7 +48,7 @@ All readings (books) for the class are available at the bookstore. These reading
 
 ### Assigned Writings
 
-Your assignments for class are recorded on the syllabus and available in the {{% resource_link 3fcb5884-aa85-301c-8de7-221e2433d5b4 "assignments" %}} section. Unless otherwise directed, assignments must be submitted by 5 pm in my mailbox on the due date. Written assignments include two 5-page papers, a complete revision of any one of the two papers, and a 10-paged research paper due on the last day of class. All papers should follow the MLA format (see {{% resource_link "42d0afa0-7736-4ee6-bc5b-d51a0f69a8e1" "Documenting Sources: MLA Style: English and Other Humanities" %}}). These papers should be typed, double-spaced, paginated, titled (no title page necessary), and in 12-point font (Times New Roman) with 1-inch margins on all sides.
+Your assignments for class are recorded on the syllabus and available in the {{% resource_link 3fcb5884-aa85-301c-8de7-221e2433d5b4 "assignments" %}} section. Unless otherwise directed, assignments must be submitted by 5 pm in my mailbox on the due date. Written assignments include two 5-page papers, a complete revision of any one of the two papers, and a 10-paged research paper due on the last day of class. All papers should follow the MLA format (see [Documenting Sources: MLA Style: English and Other Humanities](http://www.macmillanlearning.com/catalog/static/bsm/hacker/resdoc/humanities/english.htm)). These papers should be typed, double-spaced, paginated, titled (no title page necessary), and in 12-point font (Times New Roman) with 1-inch margins on all sides.
 
 ### Oral Presentations
 
