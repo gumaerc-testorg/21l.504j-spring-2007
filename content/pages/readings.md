@@ -12,11 +12,11 @@ uid: 00905a8d-24d9-24e8-d4d0-be8bf03447fe
 Required Texts
 --------------
 
-Twain, Mark. _Pudd'nhead Wilson_ \[1894\]. New York, NY: Bantam Classics, 1984. ISBN: 9780553211580. The {{% resource_link "804a87fd-eb87-4527-b9bc-2617cc53a98b" "e-text" %}} is available from Project Gutenberg.
+Twain, Mark. _Pudd'nhead Wilson_ \[1894\]. New York, NY: Bantam Classics, 1984. ISBN: 9780553211580. The [e-text](http://www.gutenberg.org/etext/102) is available from Project Gutenberg.
 
-Chesnut, Charles. _The Marrow of Tradition_ \[1901\]. New York, NY: Penguin Classics, 1993. ISBN: 9780140186864. The {{% resource_link "81f1e878-ff45-48af-9eda-fd75c33ae672" "e-text" %}} is available from Project Gutenberg.
+Chesnut, Charles. _The Marrow of Tradition_ \[1901\]. New York, NY: Penguin Classics, 1993. ISBN: 9780140186864. The [e-text](http://www.gutenberg.org/etext/11228) is available from Project Gutenberg.
 
-Johnson, James Weldon. _Autobiography of an Ex-Coloured Man_ \[1912\]. New York, NY: Vintage, 1989. ISBN: 9780679727538. The {{% resource_link "66de7d21-0ce0-4535-80ae-d8a8ccafa1fe" "e-text" %}} is available from Project Gutenberg.
+Johnson, James Weldon. _Autobiography of an Ex-Coloured Man_ \[1912\]. New York, NY: Vintage, 1989. ISBN: 9780679727538. The [e-text](http://www.gutenberg.org/etext/11012) is available from Project Gutenberg.
 
 Larsen, Nella. _Passing_ \[1929\]. New York, NY: Penguin Classics, 2003. ISBN: 9780142437278.
 
@@ -77,7 +77,7 @@ Chapelle, Dave. "When Keeping it Real Goes Wrong." In Episode 20 of _Chapelle's 
 Herman Melville
 {{< tdclose >}}
 {{< tdopen >}}
-Melville, Herman. "Benito Cereno." \[1856\] In _The Piazza Tales and other Prose Pieces, 1839-1860_. Evanston, IL: Northwestern University Press, 1987. ISBN: 9780810105515. The {{% resource_link "00cf635c-f3de-4ef9-a4c6-520e756c8a5c" "e-text" %}} is available from Project Gutenberg.
+Melville, Herman. "Benito Cereno." \[1856\] In _The Piazza Tales and other Prose Pieces, 1839-1860_. Evanston, IL: Northwestern University Press, 1987. ISBN: 9780810105515. The [e-text](http://www.gutenberg.org/etext/15859) is available from Project Gutenberg.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +292,7 @@ In-class film: _Paris is Burning_
 {{< tdopen >}}
 
 
-{{% resource_link "bb73cd67-b4dd-403c-a540-297fafd4f9c8" "_Paris is Burning_" %}}. Directed by Jennie Livingston, 1990.
+[_Paris is Burning_](http://www.imdb.com/title/tt0100332/). Directed by Jennie Livingston, 1990.
 
 Butler, Judith P. "Gender is Burning: Questions of Appropriation and Subversion." In _Bodies That Matter: On the Discursive Limits of Sex_. New York, NY: Routledge, 1993. ISBN: 9780415903660.
 
@@ -388,7 +388,7 @@ _Black No More_, chapters 7-end.
 In-class film: _Six Degrees of Separation_
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "b44066e2-65b3-4805-a455-19e3d47578a9" "_Six Degrees of Separation_" %}}. Directed by Fred Schepisi, 1993.
+[_Six Degrees of Separation_](http://www.imdb.com/title/tt0108149/). Directed by Fred Schepisi, 1993.
 {{< tdclose >}}
 
 {{< trclose >}}
